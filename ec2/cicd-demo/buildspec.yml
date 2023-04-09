@@ -1,7 +1,4 @@
 version: 0.2
-env:
-  parameter-store:
-    SECRET_TOKEN: "GITHUB_ACCESS_TOKEN"
 phases: 
     install:
         runtime-versions:
